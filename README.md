@@ -1,5 +1,6 @@
 <h1 align="center">PIC TO SPIRAL</h1>
-<img src="https://thumbs.dreamstime.com/b/abstract-d-render-polygonal-human-face-illustration-cyborg-head-construction-artificial-intelligence-concept-146637708.jpg" alt="Тесей">
+
+![Title](https://github.com/wowMalow/PicToSpiral/blob/master/src.jpg?raw=true)
 <h2 align="center">Twist it</h2>
 
 
